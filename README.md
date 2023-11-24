@@ -21,7 +21,8 @@ A Light Node is a Bitcoin community that has joined Mi Primer Bitcoin's network,
 - Voting on network applications.
 - Commitment to teach 50+ students every 180 days.
 - Contributing to the community via GitHub and public forums.
-- Promoting network growth through leadership.
+- Promoting network growth through leadership. 
+- Provide leadership and guidance for translators.
 
 ### ⚖️ Consensus Rules:
 - Independence with zero external influence.
