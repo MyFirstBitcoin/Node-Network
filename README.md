@@ -42,4 +42,4 @@ Accepted nodes will receive an MOU for full onboarding.
 
 ## 🤝 Support the Light Node Network
 Support can be shown by donating to any node or directly to Mi Primer Bitcoin - El Salvador.
-- [Donate to MPB ES]([link-to-MPB-ES-donate-page](https://miprimerbitcoin.io/en/donate/)https://miprimerbitcoin.io/en/donate/)
+- [Donate to MPB ES](https://miprimerbitcoin.io/en/donate/)
