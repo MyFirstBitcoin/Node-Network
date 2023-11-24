@@ -32,12 +32,12 @@ A Light Node is a Bitcoin community that has joined Mi Primer Bitcoin's network,
 - Prioritization of empowerment over profits.
 - Quality maintenance.
 
-## 🚀 How to Become a Light Node
+## 🚀 How to Become a Light Node:
 To apply, fill out [this application form](https://docs.google.com/forms/d/e/1FAIpQLSfxtcIOfhm_44T8TKqVSLbO9V1-O_ZQgoMFRYY_gioqoZQ3uA/viewform). Applications are reviewed and voted on by all network nodes. Notifications about outcomes and feedback are sent via email.
 
 Accepted nodes will receive an MOU for full onboarding. 
 
-## ❓ Common Questions
+## ❓ Common Questions:
 ### Do we need to be a Node to teach the Bitcoin Diploma?
 - No, the Bitcoin Diploma is open source and free for everyone.
 
