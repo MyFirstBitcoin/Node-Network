@@ -32,6 +32,11 @@ A Light Node is a Bitcoin community that has joined Mi Primer Bitcoin's network,
 - Prioritization of empowerment over profits.
 - Quality maintenance.
 
+### 🌐 [Light-Node-Directory](https://github.com/MyFirstBitcoin/Light-Node-Directory/tree/main)
+- Each Light Node has its own personalized directory for storing customized content, resources, and sharing open-source materials.
+- A hub for distributing updates, educational materials, and essential templates.
+- A space for Light Nodes to interact, collaberate, and share insights effectively.
+
 ## 🚀 How to Become a Light Node:
 To apply, fill out [this application form](https://docs.google.com/forms/d/e/1FAIpQLSfxtcIOfhm_44T8TKqVSLbO9V1-O_ZQgoMFRYY_gioqoZQ3uA/viewform). Applications are reviewed and voted on by all network nodes. Notifications about outcomes and feedback are sent via email.
 
