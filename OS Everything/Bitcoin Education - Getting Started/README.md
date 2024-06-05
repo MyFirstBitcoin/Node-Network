@@ -32,7 +32,7 @@ Another recurring trend is the help and support of others.
 
 I moved to San Salvador a week before the law went into effect. The largest city and capital seemed like a logical place to get started. I spoke with every Salvadoran I could about Bitcoin and if they might be interested in learning more and teaching others.
 
-![Napo and Victor making their first lightning transaction](Image URL)
+<img src="https://github.com/MyFirstBitcoin/Light-Node-Network/blob/d48c7228eeb8b02a7c601b5d404da99bd95f6ac7/OS%20Everything/Bitcoin%20Education%20-%20Getting%20Started/Napo%20and%20Victor%20making%20their%20first%20lightning%20transaction.jpg" width="500" alt="Napo and Victor making their first lightning transaction"> <!-- 1 picture maximum -->
 
 I invited groups of Salvadoreans to my AirBnB to learn about Bitcoin. The first group that came was four people: two invited by a Bitcoiner I met in El Zonte, a third was Napo, my Uber driver earlier that week, and the fourth was Victor. A friend in New York had introduced me to her work colleague who was based in San Salvador after hearing my intentions over coffee. That person referred me to her yoga instructor for another coffee and more chatting. Victor was the brother of the yoga instructor.
 
