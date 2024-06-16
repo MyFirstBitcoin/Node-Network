@@ -66,7 +66,7 @@ On top of all the responsibilities of being a Light Node, the responsibilities o
 - Representing the Node Network at international events and on digital media.
 - Sharing fundraising best practices and contacts.
 
-### 🌐 Full-Node-Directory
+### 🌐 [Full-Node-Directory](https://github.com/MyFirstBitcoin/Full-Node-Directory)
 Each Full Node has its own personalized directory for storing customized content, resources, and sharing open-source materials. It’s a hub for distributing updates, educational materials, and essential templates, and a space for Full Nodes to interact, collaborate, and share insights effectively.
 
 ## 🚀 Join the Network
